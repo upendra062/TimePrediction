@@ -159,7 +159,7 @@ http://127.0.0.1:8888/
 ```
 connection String: for azure blob storage
 
-DefaultEndpointsProtocol=https;AccountName=timeprediction;AccountKey=FLVY8QHeBoVkcgQV3DHLUR7X/EkaCJEq+NbVdbUMOddwVMSTQyzXdYLMed3VZSO1lrykr4e/iLIf+AStxdQ8kg==;EndpointSuffix=core.windows.net 
+
 ````
 
 
